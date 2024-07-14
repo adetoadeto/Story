@@ -1,3 +1,1 @@
-To God be the glory!
- git config --global user.email "tomiadedun@gmail.com"
- git config --global user.name "Tomi"
+Hello Tomi, web developer agba!
